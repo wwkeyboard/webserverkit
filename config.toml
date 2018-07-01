@@ -9,7 +9,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    post = "/guide/:slug/"
 
 [[menu.main]]
     name = "Home"
@@ -20,7 +20,7 @@ footnotereturnlinkcontents = "↩"
     url = "/categories/"
     weight = 2
 [[menu.main]]
-    name = "Tags"
+    name = "steps"
     url = "/tags/"
     weight = 3
 [[menu.feed]]
