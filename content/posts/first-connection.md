@@ -32,6 +32,10 @@ request to the port you specified. If it looks like curl or your
 browser is spinning you may need to explicitly close the socket once
 you've read data from it.
 
+Now that the requests are printing to the screen play around a little!
+Try requesting different URLs, different verbs, different
+clients. What changes with the requests?
+
 # Outcomes
 
 * Open a socket on a given port
