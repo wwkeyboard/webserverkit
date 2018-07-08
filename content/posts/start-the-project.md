@@ -46,3 +46,9 @@ At the end of this step you should have:
 * Source control for the project
 * "hello world" that takes an argument from the command line
 * Enough build to run the "hello world"
+
+# Googleable Words
+
+* { language } hello world
+* { language } build process
+* github new project

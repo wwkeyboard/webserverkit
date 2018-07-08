@@ -42,3 +42,8 @@ one of those for production projects. Standing on that statement:
 I HEREBY GIVE YOU PERMISSION TO MAKE MISTAKES, explore, make questionable design
 choices, delete code, refactor everything, shave any yaks you see,
 whatever you want to do with your project is okay. Please, this is how we learn!
+
+In each section I'll try to include some googleable words to help you
+in the right direction if you get stuck. A lot of these will be of the
+format "{ your language } some term", so I'll use those brackets to
+signify that the search should be language specific.
