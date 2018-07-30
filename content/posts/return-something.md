@@ -8,4 +8,4 @@ categories:
 slug: 3-return-something.md
 ---
 
-We should return a dummy page before parsing the headers.
+Now that we can get something from the browser we should send something back. You can see what an HTTP response looks like by passing the `-v` option to curl.
