@@ -4,8 +4,8 @@ tags:
   - parse
   - header
 categories:
-  - three
-slug: 3-parse-uri.md
+  - four
+slug: 4-parse-uri.md
 ---
 
 # Start Parsing the Request
