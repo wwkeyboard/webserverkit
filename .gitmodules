@@ -1,3 +1,7 @@
 [submodule "themes/hugo-classic"]
 	path = themes/hugo-classic
 	url = git@github.com:goodroot/hugo-classic.git
+
+[submodule "themes/hugo-software-kit"]
+	path = themes/hugo-software-kit
+	url = git@github.com:wwkeyboard/hugo-software-kit.git
