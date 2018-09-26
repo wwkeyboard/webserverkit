@@ -4,9 +4,11 @@ title: Home
 
 # Web Server Kit
 
-This project will guide you through building a simple web server. It
-won't be complete or production ready, but you can learn a bunch along
-the way.
+The web is important, it's in everyone's lives. I don't think enough
+people understand how it really works, how the bits are actually put
+together. This project will guide you through building a simple web
+server. It won't be complete or production ready, but you can learn a
+bunch along the way.
 
 This site will be useful to at least two groups of people. First are
 those who want a better understanding of how the web works. If you
