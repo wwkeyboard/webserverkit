@@ -4,6 +4,7 @@ tags:
   - project
 categories:
   - one
+step: 1
 slug: 1-start-project
 ---
 

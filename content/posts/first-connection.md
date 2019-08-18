@@ -4,6 +4,7 @@ tags:
   - socket
 categories:
   - two
+step: 2
 slug: 2-first-connection
 ---
 

@@ -5,6 +5,7 @@ tags:
   - header
 categories:
   - three
+step: 3
 slug: 3-return-something.md
 ---
 
@@ -12,7 +13,7 @@ Now that we can get something from the browser we should send something back. Yo
 
 In the case of google.com, and most major sites, the first line will start with `HTTP/1.1 301 Moved Permanently`. This is called the Status Line; the first part says the protocal is `HTTP/1.1`, and next is the response code followed by a text description of that code. Most major sites will respond with `302` redirecting you to either a `www.whatever` subdomain, or will send you to an https version of the site. This is appropriate behaviour, but beyond what we'll cover at this step.
 
-For now we're interested in the structure of the response, and if you notice the html at the bottom. After the status line is a number of headers. The headers are of the form `Header-Name: header value`. For example `Date: Tue, 31 Jul 2018 02:00:53 GMT`. There is some debate about what headers are prudent to send, but most clients are able to deal with a response that has no headers. So we'll start with that. 
+For now we're interested in the structure of the response, and if you notice the html at the bottom. After the status line is a number of headers. The headers are of the form `Header-Name: header value`. For example `Date: Tue, 31 Jul 2018 02:00:53 GMT`. There is some debate about what headers are prudent to send, but most clients are able to deal with a response that has no headers. So we'll start with that.
 
 You should build a response in a string that has a status line followed by some "hello world" html. The response can look like this.
 
